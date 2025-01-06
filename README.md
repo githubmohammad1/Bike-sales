@@ -34,5 +34,5 @@ The goal of this project is to analyze bike store sales data from different loca
 - Further segmentation of customer demographics if data becomes available.
 
 ## How to Access the Project
-You can access the project file directly from this repository, including the `Bike_Store_Sales_Analysis.xlsx` file and the visualizations created.
+You can access the project file directly from this repository, including the `Excel Project Dataset.xlsx` file and the visualizations created.
 
